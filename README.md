@@ -31,4 +31,4 @@ This plugin only affects Android Cordova applications. It does nothing when inst
 
 ## License
 
-    [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
